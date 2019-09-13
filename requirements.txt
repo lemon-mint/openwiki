@@ -1,0 +1,7 @@
+flask
+Flask-WTF
+ply
+bleach
+watchdog
+uwsgi
+psycopg2
