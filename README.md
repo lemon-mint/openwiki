@@ -3,9 +3,9 @@
 **OPENKIWI**
 ===
 
-The wiki engine has full customizable  
+This wiki engine is fully customizable.  
 
-**howtouse**  
+**How to use**  
 ===
 
     pip install -r requirements.txt  
@@ -19,13 +19,13 @@ The wiki engine has full customizable
         "dbname": "test",  
         "port": "3306",  
         "id": "root",  
-        "passwd": "1234"  
+        "passwd": "1234",  
         "db": "sqlite3 or mariadb or mysql",
         "secretkey": "write your secret key like lxGtkTeLoU7dG0isFk5esh5xWJc7n9AzxAs3PQ0ZQcq9CprfYPrxifYPiEAMULiFdLOVXi7r1c",
         "parser": "parsing_kiwi"
     }  
 
-**License**
+**Licenses**
 ===
 
 **Bootstrap**
