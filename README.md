@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/openkiwi-kang/openkiwi.svg?branch=DEV)](https://travis-ci.org/openkiwi-kang/openkiwi)
-
 **OPENKIWI**
 ===
 
